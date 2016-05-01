@@ -2,6 +2,7 @@
 
 """
 Plot distribution and correlation of feature data from breast cancer data set.
+Correlation analysis from cambridge 
 """
 
 from __future__ import print_function
